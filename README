@@ -16,3 +16,8 @@ Breseq.sh
  GDTools.sh
         Example Script using GDTools to combine datasets created by Breseq. 
         
+GScoreSimulation.R
+        R Script for determining the null hypothesis for Paralell Mutation based on Goodness of Fit
+        
+EcoliProteinGenesforSim.txt
+        Gene names and Lengths for Protein coding genes in MG1655. 
