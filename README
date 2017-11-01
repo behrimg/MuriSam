@@ -5,13 +5,16 @@ Population_Clone_Assembly.sh
         Software used: Cutadapt, fastqc, BWA, Samtools, Picard, GATK.
         
 Trim_for_Grasper.sh
-        Example Script for trimming Illumina Reads to 75bp for Grasper in order to identify potential structural variants from Clones.
+        Example Script for trimming Illumina Reads to 75bp for Grasper in order to identify 
+        potential structural variants from Clones.
         
 Grasper.sh
-        Example Script using Grasper <https://github.com/COL-IU/GRASPER> to identify potential Structural Variants from Clones. 
+        Example Script using Grasper <https://github.com/COL-IU/GRASPER> to identify potential 
+        Structural Variants from Clones. 
         
 Breseq.sh
-         Example Script using Breseq to identify polymorphisms in population level Whole Genome Sequencing.
+         Example Script using Breseq to identify polymorphisms in population level Whole Genome 
+         Sequencing.
          
  GDTools.sh
         Example Script using GDTools to combine datasets created by Breseq. 
