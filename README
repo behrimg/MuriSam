@@ -21,3 +21,14 @@ GScoreSimulation.R
         
 EcoliProteinGenesforSim.txt
         Gene names and Lengths for Protein coding genes in MG1655. 
+        
+readCoverage.pl
+        Called during Coverage.sh to combine + and - strand read counts to one master coverage count. 
+
+Coverage.sh
+        For use in tandem with EffPop.sh to parse BreSeq output and collect time series of SNP, Polymorphism Frequency, 
+        and Coverage at mutant sites.
+        
+EffPop.sh
+        For use in tandem with Coverage.sh to parse BreSeq output and collect time series of SNP, Polymorphism Frequency, 
+        and Coverage at mutant sites. 
