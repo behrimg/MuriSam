@@ -1,7 +1,7 @@
 Example Files for analyzing genomic data. 
 
 Population_Clone_Assembly.sh
-        Example Script for QC and refernece assembly of Clone and Population level Whole Genome 
+        Example Script (based on Year 2 data) for QC and refernece assembly of Clone and Population level Whole Genome 
         Sequencing. 
         Software used: Cutadapt, fastqc, BWA, Samtools, Picard, GATK.
         
