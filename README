@@ -21,7 +21,7 @@ Breseq.sh
         Example Script using GDTools to combine datasets created by Breseq. 
         
 GScoreSimulation.R
-        R Script for determining the null hypothesis for Paralell Mutation based on Goodness of 
+        R Script for determining the null hypothesis for Parallel Mutation based on Goodness of 
         Fit
         
 EcoliProteinGenesforSim.txt
